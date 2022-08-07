@@ -40,7 +40,8 @@ INSTALLED_APPS = [
     
     'rest_framework',
     'rest_framework.authtoken',
-    'metafetch_api',
+    'metafetch_api'
+    'fetch_meta',
 
 ]
 
